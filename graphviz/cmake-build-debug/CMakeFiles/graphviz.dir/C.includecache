@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ullrick/CLionProjects/graphviz/graphviz.c
+graphviz.h
+C:/Users/Ullrick/CLionProjects/graphviz/graphviz.h
+uthash/uthash.h
+C:/Users/Ullrick/CLionProjects/graphviz/uthash/uthash.h
+stdio.h
+-
+stdlib.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+unistd.h
+-
+sys/types.h
+-
+pwd.h
+-
+errno.h
+-
+
+C:/Users/Ullrick/CLionProjects/graphviz/graphviz.h
+
+C:/Users/Ullrick/CLionProjects/graphviz/uthash/uthash.h
+string.h
+-
+stddef.h
+-
+stdlib.h
+-
+stdint.h
+-
+stdint.h
+-
+stdint.h
+-
+

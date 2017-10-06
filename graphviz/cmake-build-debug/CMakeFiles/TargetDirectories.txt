@@ -1,0 +1,3 @@
+C:/Users/Ullrick/CLionProjects/graphviz/cmake-build-debug/CMakeFiles/graphviz.dir
+C:/Users/Ullrick/CLionProjects/graphviz/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ullrick/CLionProjects/graphviz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
