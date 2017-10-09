@@ -6,6 +6,9 @@ Para que a biblioteca funcione corretamente, é necessário certificar-se de que
 - **Windows:** O graphviz está instalado e a variável de sistema **_PATH_** está preenchida com o caminho para a execução do *dot*;
 - **Linux (Distribuições baseadas em Debian):** O graphviz está instalado. É possivel obter a última versão com o comando *apt-get install graphviz*.
 
+#### Geração dos Arquivos
+Os arquivos .gv e .png gerados pelas rotinas descritas mais abaixo serão encontrados no diretório gradosgerados no home do usuário logado no SO. É necessário que o programa que implemente a biblioteca tenha permissão para a criação do diretório/arquivos dentro do home. 
+
 ## Estruturas de Dados Suportadas
 A Interface com o graphviz é feita utilizando-se das seguintes Estruturas de Dados:
 - **Matriz de Adjacência**: Vetor short int bidimencional de tamanho n por n, onde n é o número de vértices no grafo;
